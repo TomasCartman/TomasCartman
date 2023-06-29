@@ -1,7 +1,8 @@
 ## Welcome to my github profile
 
 **My name is Marco and i'm a computer engeneering student**.<br>
-**Right now i'm in love with Android programming with Kotlin.**
+**Right now i'm learning web programming, like JS and its main frameworks, Node.js and others**.<br>
+**I also like mobile programming with Kotlin to Android**.
 
 ![EstatísticasdoGitHubdeAnurag](https://github-readme-stats.vercel.app/api?username=TomasCartman&count_private=true&show_icons=true&theme=synthwave&layout=compact)
 ======
